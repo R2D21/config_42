@@ -1,0 +1,203 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/db/" . "migrate/")
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/" . "db/")
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/lib/" . "views/")
+ ("/home/remi/Informatique/THP/semaine_4/" . "THP_Lundi/")
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/" . "db/")
+ ("/home/remi/Informatique/THP/ateliers/révisions/revisions_22/lib/" . "app/")
+ ("/home/remi/Informatique/THP/ateliers/révisions/revisions_22/" . "lib/")
+ ("/home/remi/Informatique/THP/ateliers/révisions/" . "revisions_22/")
+ ("/home/remi/Informatique/THP/ateliers/" . "révisions/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mardi/" . "THP_Mardi_3/")
+ ("/home/remi/Informatique/ruby/kariero/" . "lib/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/lib/" . "app/")
+ ("/home/remi/Informatique/thp_emails_masse/lib/" . "app/")
+ ("/home/remi/Informatique/thp_emails_masse/" . "lib/")
+ ("/home/remi/Informatique/" . "THP/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/" . "lib/")
+ ("/home/remi/Informatique/THP/semaine_2/" . "THP_Jeudi/")
+ ("/home/remi/Informatique/THP/" . "ateliers/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mercredi/my_app/" . "lib/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mercredi/" . "my_app/")
+ ("/home/remi/Informatique/THP/semaine_3/" . "THP_Jeudi_3/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/oop_monkey/" . "lib/")
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/" . "oop_monkey/")
+ ("/etc/apache2/" . "mods-available/")
+ ("/root/Informatique/Programation/THP/semaine_2/" . "THP_Jeudi/")
+ ("/root/Informatique/Programation/" . "THP/")
+ ("/root/Informatique/Programation/THP/" . "semaine_2/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/remi/Informatique/ruby/test_gem/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Lundi/lib/views/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Lundi/lib/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/db/migrate/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/app/models/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Mercredi/blog_rails/blog/db/migrate/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Lundi/db/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Lundi/"
+ "/home/remi/Informatique/THP/semaine_4/THP_Lundi/views/"
+ "/home/remi/Informatique/THP/ateliers/révisions/revisions_22/lib/app/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/lib/app/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Mardi/THP_Mardi_3/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Mardi/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/"
+ "/home/remi/Informatique/ruby/kariero/lib/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/lib/"
+ "/home/remi/Informatique/thp_emails_masse/lib/app/"
+ "/home/remi/Informatique/THP/semaine_2/THP_Jeudi/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Mercredi/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Mercredi/my_app/lib/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Mardi_3/"
+ "/home/remi/Informatique/THP/correction/tictactoe/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Lundi/oop_monkey/lib/"
+ "/home/remi/Informatique/THP/semaine_3/THP_Lundi/"
+ "/root/Informatique/Programation/THP/semaine_2/THP_Lundi/02_calculator/"
+ "/root/Informatique/Programation/ruby/kariero/"
+ "/etc/apache2/mods-available/"
+ "/root/Informatique/Programation/THP/semaine_2/THP_Jeudi/"
+ "/root/.emacs.d/"
+ "/root/"
+ "/root/Informatique/Programation/THP/semaine_2/THP_Vendredi/"
+ "/root/Informatique/Programation/THP/corrections/scrapping/"
+ "/root/Informatique/Programation/THP/THP_Jeudi/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Gemfile"
+ "profile.erb"
+ "new_gossips.erb"
+ "index.erb"
+ "gossip.rb"
+ "20180726115858_create_appointments.rb"
+ "appointment.rb"
+ "20180725150433_create_table_article.rb"
+ "gossip.csv"
+ "new_gossip.erb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/remi/Informatique/ruby/test_gem/" (23387 30646 691322 309000) ".git/" "db/" "bin/" "lib/" "test/" "app/" "README.md" "vendor/" "Gemfile.lock" "Rakefile" "Gemfile" "public/" "log/" "storage/" ".ruby-version" ".gitignore" "config.ru" "../" "tmp/" "config/" "package.json" "./")
+
+ ("/home/remi/Informatique/ruby/test_gem/db/" (23387 30640 131195 599000) "seeds.rb" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/lib/views/" (23382 48421 72185 260000) "new_gossips.erb" "profile.erb" "index.erb" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/db/migrate/" (23385 59107 859831 945000) "20180726115831_create_doctors.rb" "20180726144234_add_index2.rb" "20180726115842_create_patients.rb" "../" "20180726115858_create_appointments.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/db/" (23385 59107 859831 945000) "schema.rb" "development.sqlite3" "seeds.rb" "../" "migrate/" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/" (23385 59107 859831 945000) ".git/" "db/" "bin/" "lib/" "test/" "app/" "README.md" "vendor/" "Gemfile.lock" "Rakefile" "Gemfile" "public/" "log/" "storage/" ".ruby-version" ".gitignore" "config.ru" "../" "tmp/" "config/" "package.json" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/app/" (23385 50741 367526 665000) "mailers/" "helpers/" "controllers/" "assets/" "channels/" "../" "jobs/" "models/" "views/" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Jeudi/Doctors/doctors/app/models/" (23385 50741 367526 665000) "appointment.rb" "concerns/" "doctor.rb" "application_record.rb" "../" "patient.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Mercredi/blog_rails/blog/db/migrate/" (23385 4572 333266 378000) "20180725152437_create_comments.rb" "20180725150433_create_table_article.rb" "20180725173817_create_likes.rb" "../" "20180725150452_create_table_category.rb" "20180725081156_create_users.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/lib/" (23382 48954 264986 976000) "gossip.rb" "app.rb" "../" "views/" "./")
+
+ ("/root/" (23381 58406 249617 406000) "epson-inkjet-printer-escpr_1.6.22-1lsb3.2_amd64.deb" "slack-desktop-2.9.0-amd64.deb" "Téléchargements/" ".gnupg/" "tor-browser_fr/" "Downloads/" ".bundle/" "109311bb0361f32d87a2/" "CV.pdf" "Documents/" "README.md" ".gkrellm2/" "images.jpeg" ".git/" ".mozilla/" ".config/" "../" ".gimp-2.8/" ".gitconfig" ".hplip/" "Informatique/" "enhacke-ciberseguridad-18.jpg" ".emacs.d/" "Modèles/" "Bureau/" ".cache/" "fond.jpeg" ".thumbnails/" ".wget-hsts" "Bibliothèque calibre/" "Tux.svg" ".bashrc" ".pry_history" "VirtualBox VMs/" ".gconf/" ".pki/" "Musique/" ".~lock.atelier_decouverte_python.odp#" ".atom/" "Images/" ".gem/" ".profile" ".viminfo" "Journalist.rb" "hpscan001.png" ".audacity-data/" "atelier_decouverte_python.odp" ".ssh/" "CV.odt" ".ICEauthority" ".local/" ".rpmdb/" "commandes Linux.pdf" "Hierachie_langage.png" "crypto.rb" "./" "commandes Linux.odt" ".bashrc~" "Vidéos/" "36587324_1514903291947753_8595947151077408768_n.jpg" ".recently-used" ".netrc" ".bash_history" "Public/" ".emacs~")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/" (23381 61340 703024 161000) ".git/" "db/" "lib/" "Gemfile.lock" "Gemfile" "config.ru" "../" "test.py" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/db/" (23381 48438 974860 838000) "gossip.csv" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/" (23381 34319 140317 170000) "THP_Lundi/" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_4/THP_Lundi/views/" (23381 38649 638416 691000) "index.erb" "index.erb~" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_2/THP_Jeudi/" (23380 42920 738935 405000) "string.rb" "#parse.rb#" ".git/" "depute_bar.rb" "crypto.rb" "README.md" "mairie.rb" "Gemfile.lock" "Gemfile" "depute.rb" ".gitignore" "../" "parse.rb" "./")
+
+ ("/home/remi/Informatique/thp_emails_masse/lib/app/" (23376 59430 92736 908000) "townhalls_mailer.rb" "townhalls_follower.rb" "../" "townhalls_adder_to_db.rb" "./")
+
+ ("/home/remi/Informatique/ruby/kariero/lib/" (23379 24345 800845 871000) "string.rb" "scrapper_startupOnly.rb" "file.rb" "../" "scrapper_welcomeToJungle.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/" (23380 25843 626401 513000) ".git/" "db/" "lib/" "README.md" "Gemfile.lock" "Gemfile" "test.rb" "app.rb" ".gitignore" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/lib/app/" (23380 19175 315985 558000) "townhalls_mailer.rb" "townhalls_follower.rb" "townhalls_scrapper.rb" "../" "townhalls_adder_to_db.rb" "./")
+
+ ("/home/remi/Informatique/THP/ateliers/révisions/revisions_22/lib/app/" (23380 61784 516958 168000) "Game.rb" "../" "rules.rb" "board.rb" "Player.rb" "./" "boardCase.rb")
+
+ ("/home/remi/Informatique/THP/ateliers/révisions/revisions_22/" (23380 25744 196415 412000) ".git/" "db/" "awale.rb" "lib/" "README.md" "Gemfile" ".gitignore" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mardi/THP_Mardi_3/" (23375 20515 45205 703000) ".git/" "game.rb" "README.md" "player.rb" "../" "Morback.rb" "board.rb" "board_case.rb" "./")
+
+ ("/home/remi/Informatique/THP/ateliers/" (23378 26885 333055 16000) "révisions/" "atelier_decouverte_python.odp" "atelier.png" "../" "./")
+
+ ("/home/remi/Informatique/THP/ateliers/révisions/" (23378 26935 785072 519000) "../" "revisions_22/" "./")
+
+ ("/home/remi/Informatique/THP/ateliers/révisions/revisions_22/lib/" (23378 26913 461063 715000) "app/" "view/" "../" "./")
+
+ ("/home/remi/Informatique/ruby/" (23378 17190 719207 682000) "test.rb" "../" "tmp/" "scrapp/" "Books/" "Facebook_scrapper/" "kariero/" "./")
+
+ ("/home/remi/Informatique/ruby/kariero/" (23378 17249 167567 689000) "string.rb" ".git/" "db/" "lib/" "README.md" "Gemfile" "app.rb" ".gitignore" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/" (23376 60642 547605 714000) "THP_Lundi/" "THP_Mardi/" "../" "THP_Jeudi_3/" "./" "THP_Mercredi/")
+
+ ("/home/remi/Informatique/THP/" (23376 60448 893791 130000) "semaine_3/" "semaine_1/" "semaine_2/" "correction/" "ateliers/" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Jeudi_3/lib/" (23376 60644 115652 802000) "file.rb" "app/" "email.rb" "scrapper.rb" "../" "views/" "./" "url.rb")
+
+ ("/home/remi/Informatique/thp_emails_masse/lib/" (23376 46209 144895 129000) "app/" "../" "views/" "./")
+
+ ("/home/remi/Informatique/thp_emails_masse/" (23376 46312 509285 375000) ".git/" "db/" "lib/" "README.md" "Gemfile" "test.rb" "app.rb" ".gitignore" "../" "./")
+
+ ("/home/remi/Informatique/" (23376 46207 836890 178000) "python/" "Test_script_timer/" "THP/" "../" "thp_emails_masse/" "ruby/" "C/" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mercredi/" (23375 28837 119339 98000) "config.json" ".git/" "db/" "lib/" "README.md" "Gemfile.lock" "Gemfile" "app.rb" ".gitignore" "../" "test.py" "./")
+
+ ("/home/remi/Informatique/THP/semaine_2/" (23371 34299 916195 129000) "THP_Jeudi/" "THP_Lundi/" "../" "THP_Vendredi/" "./" "THP_Mercredi/")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mercredi/my_app/lib/" (23375 9339 497799 460000) "file.rb" "scrapper.rb" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mercredi/my_app/" (23375 9718 867405 746000) "db/" "lib/" "Gemfile.lock" "../" "test.py" "./")
+
+ ("/root/Informatique/Programation/THP/semaine_2/THP_Jeudi/" (23370 8095 140010 911000) "README.md" ".git/" "Gemfile" "../" "depute.rb" "mairie.rb" "Gemfile.lock" "string.rb" ".gitignore" "crypto.rb" "./" "depute_bar.rb" "parse.rb")
+
+ ("/root/Informatique/Programation/ruby/kariero/" (23371 19264 702986 478000) "README.md" ".git/" "../" "kariero.rb" "string.rb" ".gitignore" "./" "parse.rb")
+
+ ("/root/Informatique/Programation/THP/semaine_2/THP_Lundi/02_calculator/" (23371 16822 216924 14000) "../" "calculator.rb" "./" "calculator_spec.rb")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mardi/" (23375 5563 312814 209000) ".git/" "game.rb" "README.md" "THP_Mardi_3/" "player.rb" "../" "board.rb" "morpion.rb" "board_case.rb" "./")
+
+ ("/home/remi/Informatique/THP/correction/tictactoe/" (23374 64228 283 789000) "tictactoe_BoardCase.rb" ".git/" "tictactoe_Board.rb" "README.md" "main.rb" "tictactoe_Game.rb" "../" "tictactoe_Player.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Mardi_3/" (23374 31256 474770 763000) ".git/" "game.rb" "README.md" "player.rb" "../" "Morback.rb" "board.rb" "board_case.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/oop_monkey/lib/" (23372 64404 710791 416000) ".gitkeep" "../" "monkey.rb" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/oop_monkey/" (23372 64359 42695 65000) "lib/" "readme.md" "Gemfile" "../" "spec/" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/" (23372 64351 858680 401000) "oop_monkey/" ".git/" "scrabbler/" "README.md" "orange_tree/" "../" "./")
+
+ ("/home/remi/Informatique/THP/semaine_3/THP_Lundi/orange_tree/" (23372 63169 708107 1000) "tree.rb" "../" "./")
+
+ ("/etc/apache2/mods-available/" (23370 21944 602646 546000) "authnz_ldap.load" "negotiation.conf" "usertrack.load" "authz_dbd.load" "unique_id.load" "ldap.load" "proxy_balancer.load" "proxy_ftp.load" "heartmonitor.load" "php7.1.conf" "lbmethod_bytraffic.load" "proxy_ftp.conf" "mime.load" "proxy_scgi.load" "socache_memcache.load" "file_cache.load" "authn_file.load" "log_debug.load" "http2.load" "authz_user.load" "dav_fs.load" "dav.load" "proxy_fcgi.load" "dav_fs.conf" "authz_owner.load" "info.conf" "status.conf" "env.load" "deflate.load" "ldap.conf" "alias.conf" "auth_basic.load" "session.load" "mime.conf" "mpm_event.load" "reqtimeout.conf" "ratelimit.load" "imagemap.load" "dir.conf" "allowmethods.load" "cgid.load" "rewrite.load" "proxy_fdpass.load" "ssl.conf" "authz_host.load" "dump_io.load" "authz_groupfile.load" "dir.load" "sed.load" "ssl.load" "session_crypto.load" "cache_socache.load" "mpm_event.conf" "auth_form.load" "status.load" "proxy_http.load" "dialup.load" "log_forensic.load" "socache_dbm.load" "proxy_hcheck.load" "speling.load" "proxy.load" "cache.load" "slotmem_shm.load" "actions.conf" "cern_meta.load" "xml2enc.load" "auth_digest.load" "dbd.load" "md.load" "proxy_connect.load" "authn_dbd.load" "authn_socache.load" "lua.load" "authnz_fcgi.load" "vhost_alias.load" "authn_core.load" "setenvif.load" "cgid.conf" "echo.load" "charset_lite.load" "setenvif.conf" "proxy_ajp.load" "actions.load" "filter.load" "php7.2.conf" "userdir.load" "proxy_balancer.conf" "alias.load" "authn_anon.load" "remoteip.load" "lbmethod_heartbeat.load" "proxy_html.load" "autoindex.conf" "access_compat.load" "data.load" "mpm_worker.conf" "authz_dbm.load" "reqtimeout.load" "deflate.conf" "mpm_prefork.conf" "proxy_html.conf" "authz_core.load" "info.load" "lbmethod_byrequests.load" "autoindex.load" "include.load" "negotiation.load" "request.load" "ident.load" "dav_lock.load" "macro.load" "proxy_wstunnel.load" "slotmem_plain.load" "asis.load" "socache_shmcb.load" "proxy.conf" "dnssd.conf" "suexec.load" "php7.2.load" "userdir.conf" "mime_magic.load" "lbmethod_bybusyness.load" "mime_magic.conf" "dnssd.load" "session_cookie.load" "mpm_worker.load" "buffer.load" "mpm_prefork.load" "reflector.load" "ext_filter.load" "proxy_express.load" "session_dbd.load" "proxy_http2.load" "cache_disk.load" "brotli.load" "cgi.load" "cache_disk.conf" "php7.1.load" "heartbeat.load" "headers.load" "proxy_uwsgi.load" "authn_dbm.load" "expires.load" "substitute.load" "../" "./")
+
+ ("/etc/apache2/" (23370 22493 112114 475000) "sites-available/" "envvars" "../" "conf-enabled/" "mods-enabled/" "conf-available/" "ports.conf" "apache2.conf" "mods-available/" "magic" "#apache2.conf#" "./" "sites-enabled/")
+
+ ("/root/Informatique/Programation/THP/semaine_2/" (23368 24576 621252 964000) "../" "THP_Vendredi/" "THP_Lundi/" "THP_Mercredi/" "./" "THP_Jeudi/" "THP_Mardi/")
+
+ ("/root/Informatique/Programation/THP/" (23368 24531 841227 262000) "corrections/" "semaine_2/" "../" "THP_Vendredi/" "THP_mercredi/" "missions_THP/" "test.rb" "THP_Lundi_01/" "./" "beta_robotique/" "THP_Jeudi/" "THP_Lundi_02.zip")
+
+ ("/root/Informatique/Programation/" (23361 9423 366186 142000) "THP/" "python/" "html/" "../" "facerec_python.pdf" "nginx/" "OS/" "IA/" "script.c" "CPP/" "Python/" "ruby/" "./" "THP_Jeudi/" "Exercices-en-Langage-C-.pdf" "C/")
+
+ ("/root/Informatique/Programation/ruby/" (23369 59314 320490 785000) "motherfuckingwebsite/" "exo_3/" "../" "revisions_08/" "exo_2/" "exo_1/" "kariero/" "Journalist.rb" "./")
+
+ ("/root/Informatique/Programation/THP/THP_Jeudi/" (23367 48458 661049 86000) ".git/" "../" "cryptomonnaie.rb" "./" "journalistes.rb")
+
+ ("/root/Informatique/Programation/THP/corrections/scrapping/" (23368 25424 13925 230000) ".git/" "../" "mairies.rb" "./" "crypto_v2.rb")
+
+ ("/root/Informatique/Programation/THP/semaine_2/THP_Vendredi/" (23368 55730 344949 839000) "watir.rb" "Gemfile" "../" "webdrivers/" "Gemfile.lock" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
